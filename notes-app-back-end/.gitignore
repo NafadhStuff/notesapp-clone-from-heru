@@ -1,0 +1,10 @@
+node_modules/
+test.js
+.env
+.prod.env
+test/testing.js
+flow-diagrams.drawio
+
+========================= SKENARIO ========================
+fork & clone dari akun utama 
+pull request ke repo utama
